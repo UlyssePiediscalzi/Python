@@ -1,2 +1,2 @@
 # Le-Wagon-Prep-Work
-Exercises done before the start of the bootcanp
+Exercises done before the start of the bootcamp
