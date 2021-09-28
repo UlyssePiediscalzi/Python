@@ -1,2 +1,2 @@
-# Le-Wagon-Prep-Work
-Exercises done before the start of the bootcamp
+# Algorithms
+Various exercices here to demonstrate problem-solving abtilites and Python profiency.
