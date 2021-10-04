@@ -1,2 +1,2 @@
 # Algorithms
-Various exercices here to demonstrate problem-solving abtilites and Python profiency.
+Various exercices here to demonstrate problem-solving abilities and Python profiency.
